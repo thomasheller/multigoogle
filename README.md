@@ -38,4 +38,4 @@ Searches for "San Francisco" and "San Francisco Golang".
 ```sh
 $ mgo (San Francisco,Berlin) (Golang)
 ```
-Searches for "San Francisco" and "San Francisco Golang", "Berlin" and "Berlin Golang".
+Searches for "San Francisco", "San Francisco Golang", "Berlin" and "Berlin Golang".
